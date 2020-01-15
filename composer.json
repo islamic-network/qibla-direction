@@ -2,6 +2,7 @@
   "name": "islamic-network/alqibla",
   "type": "library",
   "description": "A Simple Library to calculate the Qibla direction",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "Meezaan-ud-Din Abdu Dhil-Jalali Wal-Ikram",
