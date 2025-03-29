@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/islamic-network/qibla-direction.svg?style=svg)](https://circleci.com/gh/islamic-network/qibla-direction)
 
 
-# https://github.com/islamic-network/api.aladhan.com
+# This repository is no longer active. Please see https://community.islamic.network/d/140-removing-repositories-from-github.
 
 # QIBLA Direction Calculator
 
